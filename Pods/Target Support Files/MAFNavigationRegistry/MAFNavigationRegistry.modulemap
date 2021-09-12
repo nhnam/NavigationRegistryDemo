@@ -1,0 +1,6 @@
+framework module MAFNavigationRegistry {
+  umbrella header "MAFNavigationRegistry-umbrella.h"
+
+  export *
+  module * { export * }
+}

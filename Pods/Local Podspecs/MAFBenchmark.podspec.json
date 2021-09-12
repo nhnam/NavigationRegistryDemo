@@ -1,0 +1,23 @@
+{
+  "name": "MAFBenchmark",
+  "version": "0.1.0",
+  "summary": "A short description of MAFBenchmark.",
+  "description": "This description is used to generate tags and improve search results.",
+  "homepage": "https://github.com/Nam Ng/MAFBenchmark",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nam Ng": "nam.nguyen@iglooinsure.com"
+  },
+  "source": {
+    "git": "https://github.com/Nam Ng/MAFBenchmark.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "MAFBenchmark/Classes/**/*",
+  "frameworks": "QuartzCore"
+}

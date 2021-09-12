@@ -1,0 +1,27 @@
+PODS:
+  - MAFBenchmark (0.1.0)
+  - MAFNavigationRegistry (1.0.0)
+  - UserModule (1.0.0):
+    - MAFNavigationRegistry
+
+DEPENDENCIES:
+  - MAFBenchmark (from `./MAFBenchmark`)
+  - MAFNavigationRegistry (from `./MAFNavigationRegistry`)
+  - UserModule (from `./UserModule`)
+
+EXTERNAL SOURCES:
+  MAFBenchmark:
+    :path: "./MAFBenchmark"
+  MAFNavigationRegistry:
+    :path: "./MAFNavigationRegistry"
+  UserModule:
+    :path: "./UserModule"
+
+SPEC CHECKSUMS:
+  MAFBenchmark: 4b5859b76b89b119ef06aaa777080bd28f541b0c
+  MAFNavigationRegistry: c21cfe6732a36107e02af97a96733e1cbb894941
+  UserModule: 0026c30556c70e163af1e12924e84ba5f1eec2e3
+
+PODFILE CHECKSUM: e3ddb385f4aff048e4f6f4840a9d9ac74883918c
+
+COCOAPODS: 1.10.1
